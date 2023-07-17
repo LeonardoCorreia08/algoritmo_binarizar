@@ -30,6 +30,7 @@ Opcional: crie um ambiente virtual (recomendado) e ative-o:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
+
 Instale as dependências:
 
 ```bash
@@ -44,6 +45,7 @@ Execute o script:
 ```bash
 python Projeto 2.py
 As versões em escala de cinza e binária da imagem serão exibidas.
+
 
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
