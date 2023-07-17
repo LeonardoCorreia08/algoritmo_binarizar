@@ -23,30 +23,26 @@ Este é um exemplo de código Python para binarizar uma imagem, convertendo-a em
    git clone https://github.com/seu-usuario/seu-repositorio.git
 Navegue até o diretório do projeto:
 
-bash
-Copy code
+```bash
 cd seu-repositorio
 Opcional: crie um ambiente virtual (recomendado) e ative-o:
 
-bash
-Copy code
+```bash
 python3 -m venv venv
 source venv/bin/activate
 Instale as dependências:
 
-bash
-Copy code
+```bash
 pip install pillow matplotlib
 Uso
 Coloque a imagem que deseja binarizar na mesma pasta do projeto.
 
-Abra o arquivo binarizar_imagem.py e defina o caminho da imagem na variável caminho_imagem.
+Abra o arquivo Projeto 2.py e defina o caminho da imagem na variável caminho_imagem.
 
 Execute o script:
 
-bash
-Copy code
-python binarizar_imagem.py
+```bash
+python Projeto 2.py
 As versões em escala de cinza e binária da imagem serão exibidas.
 
 Contribuição
