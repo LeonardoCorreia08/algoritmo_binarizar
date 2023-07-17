@@ -6,7 +6,7 @@ Código criado para utilização junto a plataforma da Digital Innovation One
 
 ## Desafio do Projeto de Redução de Dimensionalidade em Imagens para Redes Neurais 
 
-## Binarização de Imagem
+# Binarização de Imagem
 
 Este é um exemplo de código Python para binarizar uma imagem, convertendo-a em escala de cinza e binária (preto e branco).
 
@@ -18,28 +18,25 @@ Este é um exemplo de código Python para binarizar uma imagem, convertendo-a em
 ## Instalação
 
 1. Clone o repositório:
+   `git clone https://github.com/seu-usuario/seu-repositorio.git`
 
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto:
+   `cd seu-repositorio`
 
+3. Opcional: crie um ambiente virtual (recomendado) e ative-o:
 
-Instale as dependências:
+4. Instale as dependências:
+`pip install pillow matplotlib`
 
+## Uso
 
-pip install pillow matplotlib
-Uso
-Coloque a imagem que deseja binarizar na mesma pasta do projeto.
+1. Coloque a imagem que deseja binarizar na mesma pasta do projeto.
+2. Abra o arquivo `binarizar_imagem.py` e defina o caminho da imagem na variável `caminho_imagem`.
+3. Execute o script:
+`python binarizar_imagem.py`
+4. As versões em escala de cinza e binária da imagem serão exibidas.
 
-Abra o arquivo Projeto 2.py e defina o caminho da imagem na variável caminho_imagem.
+## Contribuição
 
-Execute o script:
-
-
-python Projeto 2.py
-As versões em escala de cinza e binária da imagem serão exibidas.
-
-
-Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
