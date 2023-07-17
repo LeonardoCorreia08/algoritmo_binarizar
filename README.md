@@ -31,9 +31,9 @@ Este é um exemplo de código Python para binarizar uma imagem, convertendo-a em
 ## Uso
 
 1. Coloque a imagem que deseja binarizar na mesma pasta do projeto.
-2. Abra o arquivo `binarizar_imagem.py` e defina o caminho da imagem na variável `caminho_imagem`.
+2. Abra o jupyter e encontre o  arquivo `Projeto 2.ipynb` e defina o caminho da imagem na variável `caminho_imagem`.
 3. Execute o script:
-`python binarizar_imagem.py`
+`abra o jupyter e encontre o arquivo Projeto 2.ipynb`
 4. As versões em escala de cinza e binária da imagem serão exibidas.
 
 ## Contribuição
